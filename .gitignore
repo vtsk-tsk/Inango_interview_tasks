@@ -1,0 +1,5 @@
+*.o
+.vscode/*
+
+dns_proxy_server/src/dns_proxy_server
+dns_proxy_server/dns_proxy_server
